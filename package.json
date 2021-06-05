@@ -19,7 +19,7 @@
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "files": [
-    "dist",
+    "src",
     "register.js",
     "preset.js"
   ],
