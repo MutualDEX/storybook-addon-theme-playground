@@ -53,6 +53,7 @@
   },
   "dependencies": {
     "@storybook/addons": "6.1.15",
+    "@storybook/addon-controls": "6.2.9",
     "@storybook/api": "6.1.15",
     "@storybook/client-api": "6.1.15",
     "@storybook/client-logger": "6.1.15",
