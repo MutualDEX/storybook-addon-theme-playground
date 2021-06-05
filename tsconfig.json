@@ -13,7 +13,7 @@
     "jsx": "react",
     "types": ["node"],
     "declarationDir": "dist",
-    "outDir": "dist",
+    "outDir": "src",
     "noUnusedParameters": true,
     "strictNullChecks": true,
     "moduleResolution": "node",
