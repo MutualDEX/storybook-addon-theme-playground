@@ -16,8 +16,8 @@
   "repository": "jeslage/storybook-addon-theme-playground",
   "license": "MIT",
   "author": "Johannes Eslage",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "files": [
     "dist",
     "register.js",
